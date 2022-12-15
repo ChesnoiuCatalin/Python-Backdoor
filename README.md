@@ -1,4 +1,4 @@
-#Python-Backdoor
+# Python-Backdoor
 
 This code is a python script that implements a basic remote control of a computer. It uses the socket library to establish a connection between two computers, and uses the subprocess library to execute commands on the target machine. It also provides the ability to upload and download files, as well as execute commands such as 'cd' and 'quit'. Finally, it uses the json library to reliably send and receive data, ensuring that the data is correctly interpreted.
 
