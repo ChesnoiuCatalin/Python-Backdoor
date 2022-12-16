@@ -33,4 +33,6 @@ This project has helped to strengthen my Python coding abilities.
 
 This project assisted me in comprehending how backdoors can infiltrate a victim's computer, establish persistence, and successfully exfiltrate data to the server.
 
+An understanding of the workings of a keylogger script is essential for proper implementation.
+
 My understanding of server-client architecture and communication was consolidated.
